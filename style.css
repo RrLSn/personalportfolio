@@ -164,6 +164,8 @@ figcaption{
     padding-top: 3rem;
     font-size: 2rem;
     gap: 1.5rem;
+    cursor: pointer;
+    transition: all 0.4 linear;
 }
 
 
@@ -190,3 +192,59 @@ footer{
     font-weight: 300;
     margin-top: -1.5rem;
 }
+
+@media (max-width:640px){
+    :root {
+        font-size: 10px;
+       }
+       /* .head{
+        position: fixed;
+       } */
+
+       nav{
+        width: 32rem;
+        height: 2rem;
+       }
+
+       nav a{
+        width: 2.5rem;
+        gap: 1.5rem;
+        font-size: 0.5rem;
+       }
+
+       .fit{
+        font-size: 1.5rem;
+       }
+
+       .web{
+        font-size: 1rem;
+       }
+
+       .project{
+        font-size: 1rem;
+        padding-top: 3rem;
+       }
+       
+       .project-line{
+        width: 22rem;
+        margin-left: 5rem;
+        margin-top: 0.2rem;
+       }
+       .work-tile{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 1.5rem;
+        width: 100%;
+       }
+
+       .work-tile img{
+        width: 12rem;
+        height: 10rem;
+       }
+       
+       figcaption{
+        width: 12rem;
+        height: 3rem;
+        font-size: 0.5rem;
+       }
+    }       
