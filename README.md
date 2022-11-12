@@ -13,6 +13,10 @@ https://github.com/RrLSn/personalportfolio.git
 - HTML
 - CSS
 
+# Demo
+[preview](https://rawcdn.githack.com/RrLSn/personalportfolio/44bd29820844309fcdc48adbd5dd8940c34b8e9b/index.html)
+![screenshot]()
+
 # Contact
 If you want to contact me, you can reach me at 
 - afolabisoditemitope@yahoo.com or 
