@@ -15,7 +15,8 @@ https://github.com/RrLSn/personalportfolio.git
 
 # Demo
 [preview](https://rawcdn.githack.com/RrLSn/personalportfolio/44bd29820844309fcdc48adbd5dd8940c34b8e9b/index.html)
-![screenshot]()
+![screenshot](./media/Screenshot%202022-11-12%20062458.png)
+![screenshot](./media/Screenshot%202022-11-12%20062539.png)
 
 # Contact
 If you want to contact me, you can reach me at 
